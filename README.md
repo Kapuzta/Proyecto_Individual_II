@@ -18,17 +18,15 @@ Los datos utilizados en este proyecto fueron proporcionados por Soy Henry, una r
 
 - **/data:** Este directorio contiene los conjuntos de datos utilizados en el análisis y la visualización.
 
-- **/src:** Aquí encontrarás el código fuente necesario para reproducir el dashboard en Power BI.
+- **/src:** Aquí encontrarás el código en un notebook con el eda.
 
-- **/docs:** En esta carpeta se incluyen recursos adicionales, como capturas de pantalla del dashboard y guías de usuario.
+- **/docs:** En esta carpeta se incluy el dashboard en formato pdf.
 
 ## Cómo utilizar el Dashboard
 
 1. Descarga los archivos necesarios desde este repositorio.
 
-2. Abre Power BI y carga el archivo del proyecto.
-
-3. Explora las diferentes visualizaciones para obtener información detallada sobre las tendencias de aprendizaje en MOOCs.
+2. Explora las diferentes visualizaciones para obtener información detallada sobre las tendencias de aprendizaje en MOOCs.
 
 ## Contribuciones y Colaboraciones
 
