@@ -28,6 +28,8 @@ Los datos utilizados en este proyecto fueron proporcionados por Soy Henry, una r
 
 2. Explora las diferentes visualizaciones para obtener información detallada sobre las tendencias de aprendizaje en MOOCs.
 
+3. En este link se puede descargar el dashboard con formato de power bi https://drive.google.com/file/d/1y3UiHQj0zj1TV-Kgh-HpLzR7YHMbuBCv/view?usp=sharing 
+
 ## Contribuciones y Colaboraciones
 
 ¡Las contribuciones y colaboraciones son bienvenidas! Si deseas mejorar este proyecto, agregar nuevas características o informar sobre problemas, no dudes en abrir un problema (issue) o enviar una solicitud de extracción (pull request).
